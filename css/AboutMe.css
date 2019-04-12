@@ -1,0 +1,23 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: repeat;
+    height: 100vh;
+    width: 100%;
+}
+.container{
+    color: black;
+    background-color: darkgray;
+    border-radius: 25px;
+    opacity: 0.5%;
+    margin-left: 45px;
+    margin-right: 45px;
+}
+.picturerow{
+    text-align: center;
+}
+.picturerow2{
+    text-align: center;
+    padding-bottom: 10px;
+}

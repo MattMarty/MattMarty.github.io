@@ -1,0 +1,22 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: repeat;
+    height: 100vh;
+    width: 100%;
+}
+
+.header{
+    padding-left:50px;
+    color:white;
+}
+
+.div{
+    margin-left:50px;
+    margin-right:50px;
+}
+
+.img{
+    padding-left:50px;
+}
